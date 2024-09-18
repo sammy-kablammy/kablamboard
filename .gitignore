@@ -1,1 +1,3 @@
 production/
+kablampad-backups/
+*.lck
