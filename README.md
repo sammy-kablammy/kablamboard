@@ -2,22 +2,25 @@
 
 ## kablamboard
 
-a 36 key "unibody split" column-staggered ergo keyboard
+![](kablamboard.jpg)
 
-based on the RP2040 zero (because it's cheap)
+a 36 key "unibody split" column-staggered ergonomic keyboard
 
-also there's a rotary encoder
+includes a rotary encoder (for funsies!)
+
+based on the RP2040 zero because it's cheap
 
 inspired by
 [reviung41](https://github.com/gtips/reviung),
 [corne](https://github.com/foostan/crkbd),
 [splaytoraid](https://github.com/freya-irl/splaytoraid40),
-[cheapino](https://github.com/tompi/cheapino),
-that sort of thing
+and [cheapino](https://github.com/tompi/cheapino)
 
-(it's on its own branch)
+(see *kablamboard* branch)
 
 ## kablampad
+
+![](kablampad.jpg)
 
 a 4x3 macropad
 
@@ -25,9 +28,5 @@ my first pcb project
 
 ## firmware?
 
-the firmware for all my stuff is in
+the firmware for all of my keyboards is over in
 [my QMK fork](https://github.com/sammy-kablammy/qmk_firmware)
-
-...but it's a little messy over there
-
-sorry
